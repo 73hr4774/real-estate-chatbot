@@ -39,16 +39,16 @@ The goal is to create a conversational assistant that can:
 git clone https://github.com/73hr4774/real-estate-chatbot.git
 cd real-estate-chatbot
 
-pip install -r requirements.txt
+2. pip install -r requirements.txt
 
-streamlit run app.py
+3. streamlit run app.py
 
-🌐 Deployed App
+## 🌐 Deployed App
 👉 Click here to view the deployed Streamlit app
 https://real-estate-chatbot-app.streamlit.app/
 
 
-📢 Key Takeaways
+## 📢 Key Takeaways
 Intent classification helps build smart conversational interfaces.
 
 Simple NLP models can provide meaningful user experiences.
